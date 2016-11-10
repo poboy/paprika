@@ -1,3 +1,2 @@
 # paprika
-
-NO DCO
+DCO!
